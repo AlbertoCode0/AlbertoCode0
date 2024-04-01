@@ -10,8 +10,10 @@ Nel mio tempo libero, mi dedico all'esplorazione di nuove conoscenze(hack,reti,H
 </br></br>
 # Actual OS:
 
-![https://github.com/tandpfun/skill-icons/blob/main/icons/Kali-Dark.svg](https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Kali-Dark.svg)"
-![Pop!_OS_Icon](https://github.com/AlbertoCode0/AlbertoCode0/assets/137056242/12139ba7-6860-446d-ad16-763c5e5c73c3)  ![ring](https://github.com/AlbertoCode0/AlbertoCode0/assets/137056242/1280edc9-042d-4a34-bf0b-cbb8d07010fa)<?xml version="1.0" encoding="UTF-8"?>
+
+![Pop!_OS_Icon](https://github.com/AlbertoCode0/AlbertoCode0/assets/137056242/12139ba7-6860-446d-ad16-763c5e5c73c3)  ![ring](https://github.com/AlbertoCode0/AlbertoCode0/assets/137056242/1280edc9-042d-4a34-bf0b-cbb8d07010fa)
+![https://github.com/tandpfun/skill-icons/blob/main/icons/Kali-Dark.svg](https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Kali-Dark.svg)
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="56px" height="56px" viewBox="0 0 56 56" version="1.1">
 <g id="surface1">
 <path style="fill-rule:nonzero;fill:rgb(52.54902%,74.509804%,26.27451%);fill-opacity:1;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(31.372549%,31.372549%,31.372549%);stroke-opacity:1;stroke-miterlimit:4;" d="M 246 128 C 246 193.160714 193.160714 246 128 246 C 62.839286 246 10 193.160714 10 128 C 10 62.839286 62.839286 10 128 10 C 193.160714 10 246 62.839286 246 128 Z M 246 128 " transform="matrix(0.21875,0,0,0.21875,0,0)"/>
