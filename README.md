@@ -10,7 +10,7 @@ Nel mio tempo libero, mi dedico all'esplorazione di nuove conoscenze(hack,reti,H
 </br></br>
 # Actual OS:
 
-[kali](https://tenor.com/view/kali-linux-very-hacker-1337-gif-12383795793205904460)
+![kali](https://tenor.com/view/kali-linux-very-hacker-1337-gif-12383795793205904460)
 ![Pop!_OS_Icon](https://github.com/AlbertoCode0/AlbertoCode0/assets/137056242/12139ba7-6860-446d-ad16-763c5e5c73c3)  ![ring](https://github.com/AlbertoCode0/AlbertoCode0/assets/137056242/1280edc9-042d-4a34-bf0b-cbb8d07010fa)<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="56px" height="56px" viewBox="0 0 56 56" version="1.1">
 <g id="surface1">
