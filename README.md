@@ -13,7 +13,7 @@ Nel mio tempo libero, mi dedico all'esplorazione di nuove conoscenze(hack,reti,H
 
 ![Pop!_OS_Icon](https://github.com/AlbertoCode0/AlbertoCode0/assets/137056242/12139ba7-6860-446d-ad16-763c5e5c73c3)  ![ring](https://github.com/AlbertoCode0/AlbertoCode0/assets/137056242/1280edc9-042d-4a34-bf0b-cbb8d07010fa)
 <img src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Kali-Dark.svg' width='56'>
-<img src='https://camo.githubusercontent.com/2320afcc8583fc4824feed04915f748c5fe6326b89d8b866405b9a571f7e0777/68747470733a2f2f6769746c61622e636f6d2f706172726f747365632f70726f6a6563742f67726170686963732f2d2f7261772f643139616338613131323932313336636461346231646638306132626431353666373638666564382f6c6f676f2f706172726f742d6c6f676f2e737667' width='56'>
+
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="56px" height="56px" viewBox="0 0 56 56" version="1.1">
 <g id="surface1">
