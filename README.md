@@ -10,8 +10,7 @@ Nel mio tempo libero, mi dedico all'esplorazione di nuove conoscenze(hack,reti,H
 </br></br>
 # Actual OS:
 
-
-![Pop!_OS_Icon](https://github.com/AlbertoCode0/AlbertoCode0/assets/137056242/12139ba7-6860-446d-ad16-763c5e5c73c3)  ![ring](https://github.com/AlbertoCode0/AlbertoCode0/assets/137056242/1280edc9-042d-4a34-bf0b-cbb8d07010fa)
+<img src='https://upload.wikimedia.org/wikipedia/commons/1/13/Arch_Linux_%22Crystal%22_icon.svg' width="56"> ![Pop!_OS_Icon](https://github.com/AlbertoCode0/AlbertoCode0/assets/137056242/12139ba7-6860-446d-ad16-763c5e5c73c3)  ![ring](https://github.com/AlbertoCode0/AlbertoCode0/assets/137056242/1280edc9-042d-4a34-bf0b-cbb8d07010fa)
 <img src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Kali-Dark.svg' width='56'>
 
 <?xml version="1.0" encoding="UTF-8"?>
